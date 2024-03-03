@@ -1,7 +1,7 @@
 ---
 title: "`:has`を使って「特定の要素が後ろにある場合」にマッチ"
 emoji: "👉"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ['css']
 published: true
 ---
